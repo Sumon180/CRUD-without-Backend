@@ -10,7 +10,9 @@ const UserList = () => {
   const handleRemoveUser = (id: any) => {
     dispatch(deleteUser({ id }));
   };
-
+  
+  // Front Card
+  
   const renderCard = () =>
     users.map((user: any) => (
       <div
