@@ -1,2 +1,2 @@
 # CRUD
-Redux-Toolkit, React
+React, Redux-Toolkit
