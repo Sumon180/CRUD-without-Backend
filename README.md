@@ -1,4 +1,4 @@
 # CRUD
 React, Redux-Toolkit
 
-### Importent Topic: `Redux-Toolkit,` `Deploy in Vercel`
+### Important Topic: `Redux-Toolkit,` `Deploy in Vercel`
